@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd7cadd-2ee3-4df2-8a2f-c29c83a7ba50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../may/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/student_management_system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../may/may_app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../may/may_app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/HodViews.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/HodViews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/templates/login_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/templates/login_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/templates/staff_template/sidebar_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/templates/staff_template/sidebar_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_system/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_system/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/student_management_system/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,17 +43,21 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/student_management_app/static/dist/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/student_management_app/templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\django_project\student_management_system\student_management_app\templates" />
       <recent name="C:\django_project\student_management_system\student_management_app\static\dist\img" />
       <recent name="C:\django_project\student_management_system\student_management_app\static\dist" />
       <recent name="C:\django_project\student_management_system\student_management_app\static\plugins" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\django_project\student_management_system\student_management_app\static\dist\css\alt" />
+      <recent name="C:\django_project\student_management_system\student_management_app\static" />
+      <recent name="C:\django_project\student_management_system\student_management_app\templates" />
+      <recent name="C:\django_project\student_management_system\student_management_app\templates\student_template" />
       <recent name="C:\django_project\student_management_system\student_management_app\static\dist\img" />
-      <recent name="C:\django_project\student_management_system\student_management_app\static\dist\img\credit" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,5 +70,8 @@
       <updated>1652464476016</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
 </project>

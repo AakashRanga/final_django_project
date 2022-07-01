@@ -21,6 +21,9 @@ def showDemoPage(request):
 def ShowLoginPage(request):
     return render(request,"login_page.html")
 
+def newlogin(request):
+    return render(request,"index.html")
+
 def doLogin(request):
     if request.method!="POST":
         return HttpResponse("<h2>Method Not Allowed</h2>")
